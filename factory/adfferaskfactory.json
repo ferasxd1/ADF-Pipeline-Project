@@ -1,0 +1,9 @@
+{
+	"name": "adfferaskfactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bf79169-153c-44dc-ac06-cef52c292b5a",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
