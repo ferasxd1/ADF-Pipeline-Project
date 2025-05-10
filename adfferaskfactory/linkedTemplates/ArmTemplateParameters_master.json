@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adfferaskfactory"
+		},
+		"AzureDataLakeLS_accountKey": {
+			"value": ""
+		},
+		"AzureSQLDB_2021_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeLS_properties_typeProperties_url": {
+			"value": "https://adlsnycpayrollstorage.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
